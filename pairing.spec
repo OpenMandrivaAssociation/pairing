@@ -7,7 +7,6 @@ Name:      %name
 Version:   %version
 Release:   %release
 License:   GPL
-Buildroot: %{_tmppath}/%{name}-buildroot
 Group:     Networking/Other
 Source:    %{name}-%{version}.tar.bz2
 Url:	   http://ahorvath.web.cern.ch/ahorvath/pairing/
