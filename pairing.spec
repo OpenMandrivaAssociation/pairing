@@ -1,6 +1,6 @@
 %define name pairing
 %define version 1.1
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary:   Pairing of machines for network testing
 Name:      %name 
