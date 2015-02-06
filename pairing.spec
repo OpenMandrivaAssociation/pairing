@@ -1,6 +1,6 @@
 Name:		pairing
 Version:	1.3
-Release:	%mkrel 1
+Release:	2
 Summary:	Pairing of machines for network testing
 License:	GPL
 Group:		Networking/Other
