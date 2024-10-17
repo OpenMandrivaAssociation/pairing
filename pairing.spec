@@ -4,7 +4,7 @@ Release:	2
 Summary:	Pairing of machines for network testing
 License:	GPL
 Group:		Networking/Other
-Url:		http://ahorvath.web.cern.ch/ahorvath/pairing/
+Url:		https://ahorvath.web.cern.ch/ahorvath/pairing/
 Source:		%{name}-%{version}.tar.bz2
 
 %description
